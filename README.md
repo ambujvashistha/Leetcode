@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0047-permutations-ii](https://github.com/ambujvashistha/Leetcode/tree/master/0047-permutations-ii) |
 | [0088-merge-sorted-array](https://github.com/ambujvashistha/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/ambujvashistha/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/ambujvashistha/Leetcode/tree/master/0169-majority-element) |
 | [3227-find-missing-and-repeated-values](https://github.com/ambujvashistha/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Backtracking
@@ -45,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/ambujvashistha/Leetcode/tree/master/0088-merge-sorted-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/ambujvashistha/Leetcode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
