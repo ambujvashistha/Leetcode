@@ -13,6 +13,6 @@ class Solution:
                 prev=nums[i]
         # for i in range(prev_index,len(nums)):
         #     nums[i]
-        print(c)
+        # print(c)
         return c
         
