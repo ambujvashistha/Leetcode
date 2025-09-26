@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/ambujvashistha/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0047-permutations-ii](https://github.com/ambujvashistha/Leetcode/tree/master/0047-permutations-ii) |
 | [0075-sort-colors](https://github.com/ambujvashistha/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ambujvashistha/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/ambujvashistha/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/ambujvashistha/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ambujvashistha/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/ambujvashistha/Leetcode/tree/master/0125-valid-palindrome) |
