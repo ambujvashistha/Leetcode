@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0595-big-countries](https://github.com/ambujvashistha/Leetcode/tree/master/0595-big-countries) |
 | [0620-not-boring-movies](https://github.com/ambujvashistha/Leetcode/tree/master/0620-not-boring-movies) |
+| [1161-project-employees-i](https://github.com/ambujvashistha/Leetcode/tree/master/1161-project-employees-i) |
 | [1258-article-views-i](https://github.com/ambujvashistha/Leetcode/tree/master/1258-article-views-i) |
 | [1827-invalid-tweets](https://github.com/ambujvashistha/Leetcode/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/ambujvashistha/Leetcode/tree/master/1908-recyclable-and-low-fat-products) |
