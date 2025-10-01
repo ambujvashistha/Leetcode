@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ambujvashistha/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0047-permutations-ii](https://github.com/ambujvashistha/Leetcode/tree/master/0047-permutations-ii) |
+| [0063-unique-paths-ii](https://github.com/ambujvashistha/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0075-sort-colors](https://github.com/ambujvashistha/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ambujvashistha/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/ambujvashistha/Leetcode/tree/master/0136-single-number) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/ambujvashistha/Leetcode/tree/master/0063-unique-paths-ii) |
 | [3227-find-missing-and-repeated-values](https://github.com/ambujvashistha/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/ambujvashistha/Leetcode/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/ambujvashistha/Leetcode/tree/master/0063-unique-paths-ii) |
 ## Combinatorics
 |  |
 | ------- |
