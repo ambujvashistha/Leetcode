@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0181-employees-earning-more-than-their-managers](https://github.com/ambujvashistha/Leetcode/tree/master/0181-employees-earning-more-than-their-managers) |
+| [0197-rising-temperature](https://github.com/ambujvashistha/Leetcode/tree/master/0197-rising-temperature) |
 | [0595-big-countries](https://github.com/ambujvashistha/Leetcode/tree/master/0595-big-countries) |
 | [0620-not-boring-movies](https://github.com/ambujvashistha/Leetcode/tree/master/0620-not-boring-movies) |
 | [1161-project-employees-i](https://github.com/ambujvashistha/Leetcode/tree/master/1161-project-employees-i) |
