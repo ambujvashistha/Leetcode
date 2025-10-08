@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/ambujvashistha/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ambujvashistha/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/ambujvashistha/Leetcode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/ambujvashistha/Leetcode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/ambujvashistha/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/ambujvashistha/Leetcode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ambujvashistha/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/ambujvashistha/Leetcode/tree/master/0047-permutations-ii) |
+| [0078-subsets](https://github.com/ambujvashistha/Leetcode/tree/master/0078-subsets) |
 ## Sorting
 |  |
 | ------- |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/ambujvashistha/Leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/ambujvashistha/Leetcode/tree/master/0136-single-number) |
 ## String
 |  |
