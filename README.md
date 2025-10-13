@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ambujvashistha/Leetcode/tree/master/0169-majority-element) |
 | [0300-longest-increasing-subsequence](https://github.com/ambujvashistha/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/ambujvashistha/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0967-minimum-falling-path-sum](https://github.com/ambujvashistha/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/ambujvashistha/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [3227-find-missing-and-repeated-values](https://github.com/ambujvashistha/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Backtracking
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/ambujvashistha/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ambujvashistha/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0967-minimum-falling-path-sum](https://github.com/ambujvashistha/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [3227-find-missing-and-repeated-values](https://github.com/ambujvashistha/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/ambujvashistha/Leetcode/tree/master/0070-climbing-stairs) |
 | [0300-longest-increasing-subsequence](https://github.com/ambujvashistha/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/ambujvashistha/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
+| [0967-minimum-falling-path-sum](https://github.com/ambujvashistha/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1250-longest-common-subsequence](https://github.com/ambujvashistha/Leetcode/tree/master/1250-longest-common-subsequence) |
 ## Combinatorics
 |  |
