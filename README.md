@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0183-customers-who-never-order](https://github.com/ambujvashistha/Leetcode/tree/master/0183-customers-who-never-order) |
 | [0197-rising-temperature](https://github.com/ambujvashistha/Leetcode/tree/master/0197-rising-temperature) |
 | [0577-employee-bonus](https://github.com/ambujvashistha/Leetcode/tree/master/0577-employee-bonus) |
+| [0586-customer-placing-the-largest-number-of-orders](https://github.com/ambujvashistha/Leetcode/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0595-big-countries](https://github.com/ambujvashistha/Leetcode/tree/master/0595-big-countries) |
 | [0620-not-boring-movies](https://github.com/ambujvashistha/Leetcode/tree/master/0620-not-boring-movies) |
 | [1153-product-sales-analysis-i](https://github.com/ambujvashistha/Leetcode/tree/master/1153-product-sales-analysis-i) |
