@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ambujvashistha/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/ambujvashistha/Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0136-single-number](https://github.com/ambujvashistha/Leetcode/tree/master/0136-single-number) |
+| [0140-word-break-ii](https://github.com/ambujvashistha/Leetcode/tree/master/0140-word-break-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ambujvashistha/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/ambujvashistha/Leetcode/tree/master/0169-majority-element) |
 | [0300-longest-increasing-subsequence](https://github.com/ambujvashistha/Leetcode/tree/master/0300-longest-increasing-subsequence) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0047-permutations-ii](https://github.com/ambujvashistha/Leetcode/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/ambujvashistha/Leetcode/tree/master/0078-subsets) |
+| [0140-word-break-ii](https://github.com/ambujvashistha/Leetcode/tree/master/0140-word-break-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0140-word-break-ii](https://github.com/ambujvashistha/Leetcode/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/ambujvashistha/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/ambujvashistha/Leetcode/tree/master/0169-majority-element) |
 | [3227-find-missing-and-repeated-values](https://github.com/ambujvashistha/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
@@ -83,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/ambujvashistha/Leetcode/tree/master/0125-valid-palindrome) |
+| [0140-word-break-ii](https://github.com/ambujvashistha/Leetcode/tree/master/0140-word-break-ii) |
 | [0516-longest-palindromic-subsequence](https://github.com/ambujvashistha/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/ambujvashistha/Leetcode/tree/master/1250-longest-common-subsequence) |
 ## Binary Search
@@ -127,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ambujvashistha/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ambujvashistha/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/ambujvashistha/Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0140-word-break-ii](https://github.com/ambujvashistha/Leetcode/tree/master/0140-word-break-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/ambujvashistha/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/ambujvashistha/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0967-minimum-falling-path-sum](https://github.com/ambujvashistha/Leetcode/tree/master/0967-minimum-falling-path-sum) |
@@ -139,8 +144,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ambujvashistha/Leetcode/tree/master/0070-climbing-stairs) |
+| [0140-word-break-ii](https://github.com/ambujvashistha/Leetcode/tree/master/0140-word-break-ii) |
 ## Greedy
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ambujvashistha/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Trie
+|  |
+| ------- |
+| [0140-word-break-ii](https://github.com/ambujvashistha/Leetcode/tree/master/0140-word-break-ii) |
 <!---LeetCode Topics End-->
