@@ -155,4 +155,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0140-word-break-ii](https://github.com/ambujvashistha/Leetcode/tree/master/0140-word-break-ii) |
+## Stack
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/ambujvashistha/Leetcode/tree/master/0155-min-stack) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/ambujvashistha/Leetcode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
