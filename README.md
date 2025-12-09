@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-kth-distinct-string-in-an-array](https://github.com/ambujvashistha/Leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ambujvashistha/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3227-find-missing-and-repeated-values](https://github.com/ambujvashistha/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/ambujvashistha/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Backtracking
 |  |
 | ------- |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/ambujvashistha/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/ambujvashistha/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [3227-find-missing-and-repeated-values](https://github.com/ambujvashistha/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/ambujvashistha/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Matrix
 |  |
 | ------- |
@@ -189,4 +191,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ambujvashistha/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+## Prefix Sum
+|  |
+| ------- |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/ambujvashistha/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 <!---LeetCode Topics End-->
