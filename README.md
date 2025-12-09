@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/ambujvashistha/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ambujvashistha/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0047-permutations-ii](https://github.com/ambujvashistha/Leetcode/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/ambujvashistha/Leetcode/tree/master/0056-merge-intervals) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/ambujvashistha/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0072-edit-distance](https://github.com/ambujvashistha/Leetcode/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/ambujvashistha/Leetcode/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/ambujvashistha/Leetcode/tree/master/0131-palindrome-partitioning) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/ambujvashistha/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0140-word-break-ii](https://github.com/ambujvashistha/Leetcode/tree/master/0140-word-break-ii) |
 ## Stack
 |  |
