@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0967-minimum-falling-path-sum](https://github.com/ambujvashistha/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/ambujvashistha/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/ambujvashistha/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1800-maximum-ascending-subarray-sum](https://github.com/ambujvashistha/Leetcode/tree/master/1800-maximum-ascending-subarray-sum) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/ambujvashistha/Leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ambujvashistha/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3227-find-missing-and-repeated-values](https://github.com/ambujvashistha/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
