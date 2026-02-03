@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/ambujvashistha/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0643-maximum-average-subarray-i](https://github.com/ambujvashistha/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/ambujvashistha/Leetcode/tree/master/0674-longest-continuous-increasing-subsequence) |
+| [0704-binary-search](https://github.com/ambujvashistha/Leetcode/tree/master/0704-binary-search) |
 | [0967-minimum-falling-path-sum](https://github.com/ambujvashistha/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/ambujvashistha/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/ambujvashistha/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ambujvashistha/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0300-longest-increasing-subsequence](https://github.com/ambujvashistha/Leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0704-binary-search](https://github.com/ambujvashistha/Leetcode/tree/master/0704-binary-search) |
 ## Sliding Window
 |  |
 | ------- |
