@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/ambujvashistha/Leetcode/tree/master/0062-unique-paths) |
+| [0067-add-binary](https://github.com/ambujvashistha/Leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/ambujvashistha/Leetcode/tree/master/0070-climbing-stairs) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ambujvashistha/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/ambujvashistha/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/ambujvashistha/Leetcode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/ambujvashistha/Leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/ambujvashistha/Leetcode/tree/master/0136-single-number) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/ambujvashistha/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ambujvashistha/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0067-add-binary](https://github.com/ambujvashistha/Leetcode/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/ambujvashistha/Leetcode/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/ambujvashistha/Leetcode/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/ambujvashistha/Leetcode/tree/master/0131-palindrome-partitioning) |
@@ -206,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/ambujvashistha/Leetcode/tree/master/0067-add-binary) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ambujvashistha/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Prefix Sum
 |  |
