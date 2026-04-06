@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/ambujvashistha/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/ambujvashistha/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/ambujvashistha/Leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
+| [3110-score-of-a-string](https://github.com/ambujvashistha/Leetcode/tree/master/3110-score-of-a-string) |
 ## Binary Search
 |  |
 | ------- |
