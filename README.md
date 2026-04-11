@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/ambujvashistha/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/ambujvashistha/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3668-restore-finishing-order](https://github.com/ambujvashistha/Leetcode/tree/master/3668-restore-finishing-order) |
+| [3701-compute-alternating-sum](https://github.com/ambujvashistha/Leetcode/tree/master/3701-compute-alternating-sum) |
 ## Backtracking
 |  |
 | ------- |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/ambujvashistha/Leetcode/tree/master/0067-add-binary) |
 | [1920-build-array-from-permutation](https://github.com/ambujvashistha/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ambujvashistha/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3701-compute-alternating-sum](https://github.com/ambujvashistha/Leetcode/tree/master/3701-compute-alternating-sum) |
 ## Prefix Sum
 |  |
 | ------- |
