@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/ambujvashistha/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/ambujvashistha/Leetcode/tree/master/0169-majority-element) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ambujvashistha/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0771-jewels-and-stones](https://github.com/ambujvashistha/Leetcode/tree/master/0771-jewels-and-stones) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/ambujvashistha/Leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/ambujvashistha/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/ambujvashistha/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/ambujvashistha/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/ambujvashistha/Leetcode/tree/master/0140-word-break-ii) |
 | [0516-longest-palindromic-subsequence](https://github.com/ambujvashistha/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
+| [0771-jewels-and-stones](https://github.com/ambujvashistha/Leetcode/tree/master/0771-jewels-and-stones) |
 | [1250-longest-common-subsequence](https://github.com/ambujvashistha/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/ambujvashistha/Leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [3110-score-of-a-string](https://github.com/ambujvashistha/Leetcode/tree/master/3110-score-of-a-string) |
