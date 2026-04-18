@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2469-convert-the-temperature](https://github.com/ambujvashistha/Leetcode/tree/master/2469-convert-the-temperature) |
 | [3227-find-missing-and-repeated-values](https://github.com/ambujvashistha/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/ambujvashistha/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3516-find-closest-person](https://github.com/ambujvashistha/Leetcode/tree/master/3516-find-closest-person) |
 ## Matrix
 |  |
 | ------- |
