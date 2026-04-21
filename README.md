@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1827-invalid-tweets](https://github.com/ambujvashistha/Leetcode/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/ambujvashistha/Leetcode/tree/master/1908-recyclable-and-low-fat-products) |
 | [2024-calculate-special-bonus](https://github.com/ambujvashistha/Leetcode/tree/master/2024-calculate-special-bonus) |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/ambujvashistha/Leetcode/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## Dynamic Programming
 |  |
 | ------- |
