@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/ambujvashistha/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/ambujvashistha/Leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ambujvashistha/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2418-sort-the-people](https://github.com/ambujvashistha/Leetcode/tree/master/2418-sort-the-people) |
 | [3227-find-missing-and-repeated-values](https://github.com/ambujvashistha/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/ambujvashistha/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3467-transform-array-by-parity](https://github.com/ambujvashistha/Leetcode/tree/master/3467-transform-array-by-parity) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/ambujvashistha/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/ambujvashistha/Leetcode/tree/master/0169-majority-element) |
 | [0977-squares-of-a-sorted-array](https://github.com/ambujvashistha/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [2418-sort-the-people](https://github.com/ambujvashistha/Leetcode/tree/master/2418-sort-the-people) |
 | [3467-transform-array-by-parity](https://github.com/ambujvashistha/Leetcode/tree/master/3467-transform-array-by-parity) |
 ## Hash Table
 |  |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/ambujvashistha/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0771-jewels-and-stones](https://github.com/ambujvashistha/Leetcode/tree/master/0771-jewels-and-stones) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/ambujvashistha/Leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
+| [2418-sort-the-people](https://github.com/ambujvashistha/Leetcode/tree/master/2418-sort-the-people) |
 | [3227-find-missing-and-repeated-values](https://github.com/ambujvashistha/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/ambujvashistha/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3668-restore-finishing-order](https://github.com/ambujvashistha/Leetcode/tree/master/3668-restore-finishing-order) |
@@ -149,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/ambujvashistha/Leetcode/tree/master/0771-jewels-and-stones) |
 | [1250-longest-common-subsequence](https://github.com/ambujvashistha/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/ambujvashistha/Leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
+| [2418-sort-the-people](https://github.com/ambujvashistha/Leetcode/tree/master/2418-sort-the-people) |
 | [3110-score-of-a-string](https://github.com/ambujvashistha/Leetcode/tree/master/3110-score-of-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/ambujvashistha/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3794-reverse-string-prefix](https://github.com/ambujvashistha/Leetcode/tree/master/3794-reverse-string-prefix) |
