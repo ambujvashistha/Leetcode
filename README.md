@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1925-count-square-sum-triples](https://github.com/ambujvashistha/Leetcode/tree/master/1925-count-square-sum-triples) |
 | [2235-add-two-integers](https://github.com/ambujvashistha/Leetcode/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/ambujvashistha/Leetcode/tree/master/2469-convert-the-temperature) |
+| [2485-find-the-pivot-integer](https://github.com/ambujvashistha/Leetcode/tree/master/2485-find-the-pivot-integer) |
 | [3227-find-missing-and-repeated-values](https://github.com/ambujvashistha/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/ambujvashistha/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3516-find-closest-person](https://github.com/ambujvashistha/Leetcode/tree/master/3516-find-closest-person) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [2485-find-the-pivot-integer](https://github.com/ambujvashistha/Leetcode/tree/master/2485-find-the-pivot-integer) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/ambujvashistha/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Tree
 |  |
