@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/ambujvashistha/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/ambujvashistha/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0771-jewels-and-stones](https://github.com/ambujvashistha/Leetcode/tree/master/0771-jewels-and-stones) |
+| [0796-rotate-string](https://github.com/ambujvashistha/Leetcode/tree/master/0796-rotate-string) |
 | [1250-longest-common-subsequence](https://github.com/ambujvashistha/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1768-merge-strings-alternately](https://github.com/ambujvashistha/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/ambujvashistha/Leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
@@ -316,4 +317,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/ambujvashistha/Leetcode/tree/master/0100-same-tree) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/ambujvashistha/Leetcode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
