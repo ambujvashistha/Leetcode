@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-binary-prefix-divisible-by-5](https://github.com/ambujvashistha/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/ambujvashistha/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/ambujvashistha/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/ambujvashistha/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/ambujvashistha/Leetcode/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1920-build-array-from-permutation](https://github.com/ambujvashistha/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/ambujvashistha/Leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/ambujvashistha/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/ambujvashistha/Leetcode/tree/master/0169-majority-element) |
 | [0977-squares-of-a-sorted-array](https://github.com/ambujvashistha/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/ambujvashistha/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [2418-sort-the-people](https://github.com/ambujvashistha/Leetcode/tree/master/2418-sort-the-people) |
 | [3467-transform-array-by-parity](https://github.com/ambujvashistha/Leetcode/tree/master/3467-transform-array-by-parity) |
 ## Hash Table
