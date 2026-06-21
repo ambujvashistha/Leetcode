@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/ambujvashistha/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1732-find-the-highest-altitude](https://github.com/ambujvashistha/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/ambujvashistha/Leetcode/tree/master/1800-maximum-ascending-subarray-sum) |
+| [1833-maximum-ice-cream-bars](https://github.com/ambujvashistha/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1920-build-array-from-permutation](https://github.com/ambujvashistha/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/ambujvashistha/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/ambujvashistha/Leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ambujvashistha/Leetcode/tree/master/0169-majority-element) |
 | [0977-squares-of-a-sorted-array](https://github.com/ambujvashistha/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/ambujvashistha/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1833-maximum-ice-cream-bars](https://github.com/ambujvashistha/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [2418-sort-the-people](https://github.com/ambujvashistha/Leetcode/tree/master/2418-sort-the-people) |
 | [3467-transform-array-by-parity](https://github.com/ambujvashistha/Leetcode/tree/master/3467-transform-array-by-parity) |
 ## Hash Table
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ambujvashistha/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [1833-maximum-ice-cream-bars](https://github.com/ambujvashistha/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 ## Trie
 |  |
 | ------- |
@@ -353,4 +356,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/ambujvashistha/Leetcode/tree/master/0796-rotate-string) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/ambujvashistha/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
