@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0967-minimum-falling-path-sum](https://github.com/ambujvashistha/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/ambujvashistha/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/ambujvashistha/Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1331-rank-transform-of-an-array](https://github.com/ambujvashistha/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/ambujvashistha/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/ambujvashistha/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/ambujvashistha/Leetcode/tree/master/1470-shuffle-the-array) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/ambujvashistha/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/ambujvashistha/Leetcode/tree/master/0169-majority-element) |
 | [0977-squares-of-a-sorted-array](https://github.com/ambujvashistha/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1331-rank-transform-of-an-array](https://github.com/ambujvashistha/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/ambujvashistha/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1833-maximum-ice-cream-bars](https://github.com/ambujvashistha/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ambujvashistha/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ambujvashistha/Leetcode/tree/master/0169-majority-element) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ambujvashistha/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0771-jewels-and-stones](https://github.com/ambujvashistha/Leetcode/tree/master/0771-jewels-and-stones) |
+| [1331-rank-transform-of-an-array](https://github.com/ambujvashistha/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/ambujvashistha/Leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/ambujvashistha/Leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2418-sort-the-people](https://github.com/ambujvashistha/Leetcode/tree/master/2418-sort-the-people) |
