@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/ambujvashistha/Leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1833-maximum-ice-cream-bars](https://github.com/ambujvashistha/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ambujvashistha/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/ambujvashistha/Leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2418-sort-the-people](https://github.com/ambujvashistha/Leetcode/tree/master/2418-sort-the-people) |
 | [3467-transform-array-by-parity](https://github.com/ambujvashistha/Leetcode/tree/master/3467-transform-array-by-parity) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ambujvashistha/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/ambujvashistha/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/ambujvashistha/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1925-count-square-sum-triples](https://github.com/ambujvashistha/Leetcode/tree/master/1925-count-square-sum-triples) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/ambujvashistha/Leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2235-add-two-integers](https://github.com/ambujvashistha/Leetcode/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/ambujvashistha/Leetcode/tree/master/2469-convert-the-temperature) |
 | [2485-find-the-pivot-integer](https://github.com/ambujvashistha/Leetcode/tree/master/2485-find-the-pivot-integer) |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ambujvashistha/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1833-maximum-ice-cream-bars](https://github.com/ambujvashistha/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ambujvashistha/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/ambujvashistha/Leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Trie
 |  |
 | ------- |
